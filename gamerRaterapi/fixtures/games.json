@@ -1,0 +1,36 @@
+[
+    {
+        "model": "gamerRaterapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Egyptian ratscrew",
+            "description": "Fast paced card game. Quick hands needed",
+            "number_of_players": 2,
+            "age_rec": 12,
+            "year_released": "1843"
+        }
+    },
+    {
+        "model": "gamerRaterapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "Monopoly",
+            "description": "Learn about the magic of Capitalism",
+            "number_of_players": 4,
+            "age_rec": 12,
+            "year_released": "1946"
+        }
+        
+    },
+    {
+        "model": "gamerRaterapi.game",
+        "pk": 3,
+        "fields": {
+            "title": "Red Rover",
+            "description": "Run into the line and try to break hands!",
+            "number_of_players": 15,
+            "age_rec": 12,
+            "year_released": "1974"
+        }
+    }
+]

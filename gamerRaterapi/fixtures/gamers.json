@@ -1,0 +1,10 @@
+[
+    {
+        "model": "gamerRaterapi.gamer",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "bio": "I'm a hardcore game and I'm comin for you..."
+        }
+    }
+]
