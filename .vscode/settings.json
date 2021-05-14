@@ -1,4 +1,5 @@
 {
     "python.linting.pylintEnabled": true,
-    "python.pythonPath": "/Users/samanthacampbell/.local/share/virtualenvs/gamerRater-Rwodnym8/bin/python"
+    "python.pythonPath": "/Users/samanthacampbell/.local/share/virtualenvs/gamerRater-Rwodnym8/bin/python",
+    "python.linting.enabled": false
 }
