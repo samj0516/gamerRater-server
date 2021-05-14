@@ -1,5 +1,13 @@
 {
     "python.linting.pylintEnabled": true,
     "python.pythonPath": "/Users/samanthacampbell/.local/share/virtualenvs/gamerRater-Rwodnym8/bin/python",
-    "python.linting.enabled": false
+    "python.linting.enabled": false,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "GamerRater",
+            "database": "db.sqlite3"
+        }
+    ]
 }
