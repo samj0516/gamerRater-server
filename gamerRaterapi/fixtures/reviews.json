@@ -1,0 +1,24 @@
+[
+    {
+        "model": "gamerRaterapi.review",
+        "pk": 1,
+        "fields": {
+            "game_id": 1,
+            "gamer_id": 1,
+            "rating": 4,
+            "review": "So much fun! You gotta be quick on the draw though!"
+            
+        }
+    },
+    {
+        "model": "gamerRaterapi.review",
+        "pk": 2,
+        "fields": {
+            "game_id": 2,
+            "gamer_id": 1,
+            "rating": 2,
+            "review": "My sister broke her arm! Dangerous game!"
+            
+        }
+    }
+]
